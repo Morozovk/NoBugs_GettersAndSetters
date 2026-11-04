@@ -17,7 +17,7 @@ public class Laptop {
         return  this.price;
     }
 
-    void getBrand(String newBrand){
+    void setBrand(String newBrand){
         this.brand = newBrand;
     }
 

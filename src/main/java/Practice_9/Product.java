@@ -21,11 +21,11 @@ public class Product {
         this.price = newPrice;
      }
 
-    double applyDiscount(double discount){
-         return price * (1 - discount /100);
+    void applyDiscount(double discount) {
+        setPrice(price * (1 - discount / 100));
     }
 
     void printInfo(){
-        System.out.println("Товар: " + this.name + "- цена товара: " + this.getPrice());
+        System.out.println("Товар: " + this.name + " - цена товара: " + this.getPrice());
     }
 }

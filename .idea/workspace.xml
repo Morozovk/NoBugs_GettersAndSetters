@@ -4,29 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbae93b4-7748-4685-9f53-320331e325bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_10/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_4/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_5/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_6/StudentGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_7/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_8/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Practice_9/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="dbae93b4-7748-4685-9f53-320331e325bb" name="Changes" comment="add homework getters and setters">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice_1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_10/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice_10/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_7/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice_7/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice_7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice_9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Practice_9/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Practice_9/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,15 +55,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.NoBugs_GettersAndSetters [:Main.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.NoBugs_GettersAndSetters [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Practice_10.Main">
+}</component>
+  <component name="RunManager" selected="Application.Practice_9.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice_7.Main" />
       <module name="NoBugs_GettersAndSetters.main" />
@@ -163,6 +148,15 @@
       <option name="presentableId" value="Default" />
       <updated>1793467846946</updated>
     </task>
+    <task id="LOCAL-00001" summary="add homework getters and setters">
+      <option name="closed" value="true" />
+      <created>1793481025050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793481025050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,5 +169,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add homework getters and setters" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework getters and setters" />
   </component>
 </project>

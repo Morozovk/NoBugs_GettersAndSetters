@@ -20,12 +20,12 @@ public class Car {
     }
 
     //Геттер для бренда машины
-    String setBrand(){
+    String getBrand(){
         return this.brand;
     }
 
     //Сеттер для бренда машины
-    void getBrand(String newBrand){
+    void setBrand(String newBrand){
         this.brand = newBrand;
     }
 
